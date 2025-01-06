@@ -1,0 +1,22 @@
+.inputField {
+    width: 20%;
+    padding: 10px 15px;
+    font-size: 20px;
+    color: #131010;
+    border: 3px solid #6a8dba;
+    border-radius: 7px;
+    outline: none;
+    margin-bottom: 20px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+.btn {
+
+    padding: 10px 15px;
+    margin: 7px;
+    background: #559c90;
+    font-size: 16px;
+    text-align: center;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
